@@ -1,0 +1,4 @@
+﻿  simulator.cpp
+D:\Document\Program\VS\simulator\simulator.cpp(4141,13): warning C4244: “=”: 从“TCHAR”转换到“char”，可能丢失数据
+D:\Document\Program\VS\simulator\simulator.cpp(5013,1): warning C4715: “freshProbability”: 不是所有的控件路径都返回值
+  simulator.vcxproj -> D:\Document\Program\VS\simulator\x64\Debug\simulator.exe
